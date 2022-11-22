@@ -1,4 +1,3 @@
-# 3DVIEWER
 ![3DVIEWER](./images/3dviewer.jpeg)
 
 **The program allows you to open an .obj file and display the resulting model on the screen, as well as customize the resulting model (all options are described below).**
